@@ -79,6 +79,20 @@ const recipes = [
                 "quantity": 200
             }
         ]
+    },
+    {
+        "id": 3,
+        "productId": 3,
+        "ingredients": [
+            {
+                "ingredientId": 4,
+                "quantity": 32
+            },
+            {
+                "ingredientId": 7,
+                "quantity": 200
+            }
+        ]
     }
 ]
 
